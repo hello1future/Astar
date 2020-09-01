@@ -1,4 +1,0 @@
-/home/suiyuejinghao/Desktop/slamface/code_test/astar/build/CMakeFiles/rebuild_cache.dir
-/home/suiyuejinghao/Desktop/slamface/code_test/astar/build/CMakeFiles/edit_cache.dir
-/home/suiyuejinghao/Desktop/slamface/code_test/astar/build/CMakeFiles/astar_main.dir
-/home/suiyuejinghao/Desktop/slamface/code_test/astar/build/CMakeFiles/astar.dir
